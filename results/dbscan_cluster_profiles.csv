@@ -1,3 +1,3 @@
 DBSCANCluster,CustomerCount,MedianRecency,MedianFrequency,MedianMonetary,AverageMonetary,Persona,MarketingAction
--1,30,7.0,47.5,37023.235,59160.770333333334,Noise / Outlier Customers,Investigate unusual behaviour before launching targeted campaigns
-0,4247,213.0,2.0,600.05,1365.1846183188134,Regular / Developing Customers,Personalized recommendations and promotional bundles
+-1,27,5.0,56.0,19626.35,38529.44925925926,Noise / Outlier Customers,Investigate unusual behaviour before launching targeted campaigns
+0,5628,100.0,3.0,247.075,663.9230376687989,Regular / Developing Customers,Personalized recommendations and promotional bundles
